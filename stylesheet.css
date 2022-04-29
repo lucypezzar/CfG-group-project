@@ -1,0 +1,24 @@
+/* FONT FOR HEADINGS THAT MATCHES LOGO, PLS DONT TOUCH */
+@font-face {
+    font-family: Gagalin ;
+    src: url(gagalin-font/Gagalin-Regular.woff2) format('woff2'),
+    url(gagalin-font/Gagalin-Regular.woff) format('woff');        
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/* Our colour palette is 
+    backgrounds: either white or #edeed7
+    here's the rest, they're from the logo: #108ea6, #175170, #fcbd55, #31c082, #fa5d43, #d88375
+    choose one for whatever you want really, we just have to keep it consistent.*/
+
+/* RECIPE MASTER */
+.header-logo {
+    height: 200px;
+    width: 400px;
+    background-color: #edeed7;
+    object-fit: contain;
+}
+/* HOME PAGE */
+/* MAP PAGE */
+/* CONTACT US */
