@@ -1,0 +1,8 @@
+@font-face {
+    font-family: gagalin-regular;
+    src: url(/gagalin-font/Gagalin-Regular.otf);
+}
+
+div{
+    font-family: gagalin-regular;
+}
