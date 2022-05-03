@@ -25,12 +25,11 @@
     font-family: gagalin;
     margin-top: 0px;
     padding: 0px;
-    overflow: hidden;
     top: 0px;
     font-size: x-large;
     display: inline;
     background-color: #edeed7;
-    position:sticky;
+    position: sticky;
 }
     li a:link{
         text-decoration: none;
