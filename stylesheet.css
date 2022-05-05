@@ -1,4 +1,5 @@
 /* FONT FOR HEADINGS THAT MATCHES LOGO, PLS DONT TOUCH */
+
 @font-face {
     font-family: Gagalin ;
     src: url(gagalin-font/Gagalin-Regular.woff2) format('woff2'),
@@ -12,7 +13,17 @@
     here's the rest, they're from the logo: #108ea6, #175170, #fcbd55, #31c082, #fa5d43, #d88375
     choose one for whatever you want really, we just have to keep it consistent.*/
 
-/* RECIPE MASTER */
+body{
+    background-color:#d88375;
+    opacity: 0.8
+}
+
+p{
+    color: black;
+    text-decoration: bold;
+    font-style: italic;
+  }
+
 .header-logo {
     max-height: 300px;
     min-width: 500px;
