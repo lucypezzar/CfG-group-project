@@ -25,10 +25,32 @@ p{
   }
 
 .header-logo {
-    height: 200px;
-    width: 400px;
+    max-height: 300px;
+    min-width: 500px;
     background-color: #edeed7;
-    object-fit: contain;
+    margin-bottom: 10px;
+    margin-top: 0px;
 }
+.nav-bar ul{
+    list-style-type: none;
+    font-family: gagalin;
+    margin-top: 0px;
+    padding: 0px;
+    top: 0px;
+    font-size: x-large;
+    display: inline;
+    background-color: #edeed7;
+    position: sticky;
+}
+    li a:link{
+        text-decoration: none;
+        color: #108ea6;
+        display: block;
+        padding: 5px;
+        float: left;
+        background-color: #edeed7;
+        }
 
-
+/* HOME PAGE */
+/* MAP PAGE */
+/* CONTACT US */
