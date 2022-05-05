@@ -11,6 +11,10 @@
     backgrounds: either white or #edeed7
     here's the rest, they're from the logo: #108ea6, #175170, #fcbd55, #31c082, #fa5d43, #d88375
     choose one for whatever you want really, we just have to keep it consistent.*/
+body{
+    background-color:#d88375;
+    opacity: 0.8
+}
 
 /* RECIPE MASTER */
 .header-logo {
@@ -22,3 +26,4 @@
 /* HOME PAGE */
 /* MAP PAGE */
 /* CONTACT US */
+
