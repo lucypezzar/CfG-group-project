@@ -24,6 +24,30 @@ p{
     font-style: italic;
   }
 
+  
+  img{
+    border: 4px solid black;
+    border-radius: 30px;
+  }
+  
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+  }
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  }
+  
+div.gallery:hover {
+    border: 10px solid rgb(97, 94, 94);
+}
+
 .header-logo {
     max-height: 300px;
     min-width: 500px;
